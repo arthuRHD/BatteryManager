@@ -12,7 +12,7 @@ git clone https://github.com/arthuRHD/BatteryManager.git || git clone git@github
 ```
 ## Preview
 
-![alt text](https://raw.githubusercontent.com/arthuRHD/BatteryManager/BattaeryManager/img/all.PNG)
+![alt text](./BattaeryManager/img/all.PNG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
