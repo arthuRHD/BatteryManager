@@ -1,0 +1,9 @@
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\bin\Debug\BattaeryManager.exe.config
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\bin\Debug\BattaeryManager.exe
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\bin\Debug\BattaeryManager.pdb
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\obj\Debug\BattaeryManager.BatteryManager.resources
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\obj\Debug\BattaeryManager.Properties.Resources.resources
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\obj\Debug\BatteryManager.csproj.GenerateResource.cache
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\obj\Debug\BatteryManager.csproj.CoreCompileInputs.cache
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\obj\Debug\BattaeryManager.exe
+C:\Users\ARTHUR\Documents\GitHub\BatteryManager\BattaeryManager\obj\Debug\BattaeryManager.pdb
