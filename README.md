@@ -5,7 +5,7 @@ This application use DLL files and the Windows API in order to manipulate batter
 
 ## Installing
 
-[Latest release (v1.0.zip)](https://github.com/arthuRHD/BatteryManager/archive/v1.0.zip)
+[Latest release (v1.0.zip)](https://github.com/arthuRHD/BatteryManager/archive/v1.0.zip) <br>
 [Latest release (v1.0.tar.gz)](https://github.com/arthuRHD/BatteryManager/archive/v1.0.tar.gz)
 
 ### Cloning
