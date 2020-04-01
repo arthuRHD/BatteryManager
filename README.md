@@ -3,7 +3,12 @@
 BatteryManager is a Desktop Application built with the .NET Framework and C#. 
 This application use DLL files and the Windows API in order to manipulate battery settings.
 
-## Installation
+## Installing
+
+[Latest release (v1.0.zip)](https://github.com/arthuRHD/BatteryManager/archive/v1.0.zip)
+[Latest release (v1.0.tar.gz)](https://github.com/arthuRHD/BatteryManager/archive/v1.0.tar.gz)
+
+### Cloning
 
 Use the following command in your Git Bash :
 
