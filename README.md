@@ -8,7 +8,7 @@ This application use DLL files and the Windows API in order to manipulate batter
 Use the following command in your Git Bash :
 
 ```bash
-git clone https://github.com/arthuRHD/BatteryManager.git || git clone git@github.com:arthuRHD/BatteryManager.git
+git clone https://github.com/arthuRHD/BatteryManager.git
 ```
 ## Preview
 
