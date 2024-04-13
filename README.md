@@ -5,10 +5,10 @@ This application use DLL files and the Windows API in order to manipulate batter
 
 ## Installing
 
-Use the following command in your Git Bash :
+Use the following command:
 
 ```bash
-git clone https://github.com/arthuRHD/BatteryManager.git
+curl -Lk https://github.com/arthuRHD/BatteryManager/releases/download/v1.0/BattaeryManager.exe -O
 ```
 ## Preview
 
